@@ -1,0 +1,10 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include "str38.h"
+
+int main(){
+
+	firstExample();
+	printf("%c\n", 'a');
+	return 0;
+}
